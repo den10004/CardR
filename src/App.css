@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  width: 95%;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.wrapper > button {
+  border: 0;
+  background: white;
+  cursor: pointer;
+}
+
